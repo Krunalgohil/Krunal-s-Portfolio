@@ -105,7 +105,7 @@ export const projectsData = [
     tech: ["React.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
     demo: "#",
-    code: "#",
+    code: "https://github.com/Krunalgohil/Krunal-s-Portfolio",
   },
   
  
